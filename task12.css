@@ -1,0 +1,31 @@
+h1{
+  font-family: 'Roboto', sans-serif;
+text-align: center;
+}
+
+.Pallets{
+  margin: auto;
+}
+
+td{
+  background-color: black;
+  height:300px;
+  width: 200px;
+}
+#first{
+  background-color:#587B7F;
+}
+#second{
+  background-color:#1E2019;
+}
+#third{
+  background-color: #394032;
+}
+#fourth{
+  background-color: #8DAB7F;
+}
+#fifth{
+  background-color: #CFEE9E;
+}
+#8DAB7F
+#CFEE9E
